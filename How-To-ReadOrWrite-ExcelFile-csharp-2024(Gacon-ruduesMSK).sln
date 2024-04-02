@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How-To-ReadOrWrite-ExcelFile-csharp-2024(Gacon-ruduesMSK)", "How-To-ReadOrWrite-ExcelFile-csharp-2024(Gacon-ruduesMSK)\How-To-ReadOrWrite-ExcelFile-csharp-2024(Gacon-ruduesMSK).csproj", "{0332C44C-06C0-42CA-A086-B51B403D4E78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadExcelFile_v.2", "ReadExcelFile_v.2\ReadExcelFile_v.2.csproj", "{5931EC09-3F9B-42BF-BC3A-09BC62E5A629}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0332C44C-06C0-42CA-A086-B51B403D4E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0332C44C-06C0-42CA-A086-B51B403D4E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0332C44C-06C0-42CA-A086-B51B403D4E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5931EC09-3F9B-42BF-BC3A-09BC62E5A629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5931EC09-3F9B-42BF-BC3A-09BC62E5A629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5931EC09-3F9B-42BF-BC3A-09BC62E5A629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5931EC09-3F9B-42BF-BC3A-09BC62E5A629}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
